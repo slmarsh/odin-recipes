@@ -24,6 +24,8 @@ img {
     width: auto;
 }
 
-p {
+p, 
+ul, 
+ol {
     background-color: #deb887;
 }
