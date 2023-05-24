@@ -10,10 +10,13 @@ font-family: "monaco", monospace;
     border-style: inset;
 }
 
-h1 {
+.header {
     color: #8a2be2;
-    font-size: 40px;
     font-weight: 600;
+}
+
+h1 {
+    font-size: 40px;
 }
 
 img {
