@@ -23,3 +23,7 @@ img {
     height: 300px;
     width: auto;
 }
+
+p {
+    background-color: #deb887;
+}
