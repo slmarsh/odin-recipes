@@ -3,19 +3,25 @@ font-family: "monaco", monospace;
 }
 
 a {
-    color: #ff4500;
-    background-color: #deb887;
     font-weight: 400;
-    border-style: inset;
-}
+    display: block;
+    }
 
 .recipe {
     font-size: 22px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    color: #ff4500;
+    background-color: #deb887;
+    border-style: inset;
+    border-color: #ff4500;
 }
 
 .header {
     color: #8a2be2;
     font-weight: 600;
+    text-align: center;
 }
 
 h1 {
@@ -25,14 +31,30 @@ h1 {
 img {
     height: 300px;
     width: auto;
+    display: block;
+    margin: auto;
 }
 
 p, 
-ul, 
 ol {
     background-color: #deb887;
 }
 
 .home-link {
     font-size: 15px;
+    color: #ff4500;
+    background-color: #deb887;
+    border-style: inset;
+    border-color: #ff4500;
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+    padding: 5px 0;
+}
+
+li {
+    display: block;
+    margin: auto;
 }
