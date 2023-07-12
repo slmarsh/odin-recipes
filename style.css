@@ -32,7 +32,6 @@ h1 {
 .home-img {
     height: 300px;
     width: auto;
-    display: inline-block;
     margin: auto;
     margin-right: 10px;
     float: left;
