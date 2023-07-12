@@ -5,6 +5,7 @@ font-family: "monaco", monospace;
 a {
     font-weight: 400;
     display: block;
+    margin-bottom: 10px;
     }
 
 .recipe {
