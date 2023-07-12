@@ -71,3 +71,7 @@ li {
 .description {
     display: inline-block;
 }
+
+.description > p {
+    text-align: left;
+}
