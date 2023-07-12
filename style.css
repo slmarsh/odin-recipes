@@ -44,7 +44,7 @@ img {
     display: inline-block;
 }
 
-ul {
+.listed-recipes {
     list-style-type: none;
     padding: 5px 0;
 }
