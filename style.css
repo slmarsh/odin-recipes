@@ -28,7 +28,16 @@ h1 {
     font-size: 40px;
 }
 
-img {
+.home-img {
+    height: 300px;
+    width: auto;
+    display: inline-block;
+    margin: auto;
+    margin-right: 10px;
+    float: left;
+}
+
+.recipe-img {
     height: 300px;
     width: auto;
     display: block;
@@ -56,5 +65,8 @@ li {
 
 .recipe-info {
     background-color: #deb887;
+}
 
+.description {
+    display: inline-block;
 }
