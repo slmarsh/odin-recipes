@@ -35,11 +35,6 @@ img {
     margin: auto;
 }
 
-p, 
-ol {
-    background-color: #deb887;
-}
-
 .home-link {
     font-size: 15px;
     color: #ff4500;
@@ -60,5 +55,6 @@ li {
 }
 
 .recipe-info {
-    
+    background-color: #deb887;
+
 }
